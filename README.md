@@ -1,2 +1,2 @@
 # hello-world
-Dummy
+Hello fellow living beings!
